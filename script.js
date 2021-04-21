@@ -38,5 +38,11 @@ const words = [
     "avion",
     "cacahuete",
     "creepypasta",
-    "champignon"
+    "champignon",
+    "HTML",
+    "PHP",
+    "MySQL",
+    "Javascript",
+    "ReactJS",
+    "CSS"
 ]
