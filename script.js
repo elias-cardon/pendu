@@ -75,7 +75,8 @@ const words = [
     "zinc",
     "nous",
     "repu",
-    "malt"
+    "malt",
+    "blog"
 ];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
