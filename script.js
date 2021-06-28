@@ -142,7 +142,25 @@ const words = [
     "frigidaire",
     "charmant",
     "bouteille",
-    "ennui"
+    "ennui",
+    "pendu",
+    "swagg",
+    "rhododendron",
+    "coccyx",
+    "ecchymose",
+    "chevalet",
+    "diapason",
+    "calligraphe",
+    "veuf",
+    "veuve",
+    "licol",
+    "naseau",
+    "hennir",
+    "houspiller",
+    "bougre",
+    "inoxydable",
+    "acrimonie",
+    "animadversion"
 ];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
