@@ -139,7 +139,10 @@ const words = [
     "stylo",
     "censure",
     "toilettes",
-    "frigidaire"
+    "frigidaire",
+    "charmant",
+    "bouteille",
+    "ennui"
 ];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
