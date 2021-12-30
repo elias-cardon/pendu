@@ -11,7 +11,8 @@ const figureParts = document.querySelectorAll(".figure-part");
 
 const words = [
     "ornithorynque",
-    "Jobba",
+    "jobba",
+    "certification",
     "vacances",
     "fatigue",
     "fetes",
@@ -153,14 +154,16 @@ const words = [
     "calligraphe",
     "veuf",
     "veuve",
-    "licol",
     "naseau",
     "hennir",
-    "houspiller",
     "bougre",
     "inoxydable",
-    "acrimonie",
-    "animadversion"
+    "roxan",
+    "terry",
+    "pascal",
+    "ruben",
+    "jessica",
+    "cyril"
 ];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
